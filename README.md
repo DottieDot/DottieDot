@@ -10,6 +10,7 @@
 </a>
 
 <br />
+<br />
 
 I'm a 1st year Software Engineering student at Fontys.
 
