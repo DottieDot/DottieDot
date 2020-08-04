@@ -23,6 +23,8 @@ I'm a 1st year Software Engineering student at Fontys.
 
 ### Languages & Tools
 
+<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dottiedot&layout=compact" />
+
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&labelColor=444)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&labelColor=444)
 ![HTML5](https://img.shields.io/badge/-HTML5-red?style=flat&logo=html5&labelColor=444)
@@ -38,11 +40,11 @@ I'm a 1st year Software Engineering student at Fontys.
 ![SQL](https://img.shields.io/badge/-SQL-9cf?style=flat&logo=mysql&labelColor=444)
 ![git](https://img.shields.io/badge/-Git-orange?style=flat&logo=github&labelColor=444)
 
-### Learning/Wanting to learn
+
+*Learning/Wanting to learn*
 
 ![Rust](https://img.shields.io/badge/-Rust-brown?style=flat&logo=rust&labelColor=444)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter&labelColor=444)
 ![Swift](https://img.shields.io/badge/-Swift-orange?style=flat&logo=swift&labelColor=444)
 ![OpenGL](https://img.shields.io/badge/-OpenGL-blue?style=flat&logo=opengl&labelColor=444)
-
 
