@@ -12,7 +12,7 @@
 <br />
 <br />
 
-I'm a 1st year Software Engineering student at Fontys.
+I'm in my 4th semester at Fontys University of Applied Sciences.
 
 
 ## Interests
