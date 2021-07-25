@@ -3,10 +3,10 @@
   <img align="left" alt="Twitter" width="26px" src="./icons/twitter.svg" />
 </a>
 <a href="https://reddit.com/u/ThatDottieDot">
-  <img align="left" alt="Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
+  <img align="left" alt="Reddit" width="26px" src="./icons/reddit.svg" />
 </a>
 <a href="https://discord.com/users/394157602252128267">
-  <img align="left" alt="Discord" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+  <img align="left" alt="Discord" width="26px" src="./icons/discord.svg" />
 </a>
 
 <br />
