@@ -23,7 +23,7 @@ I'm in my 4th semester at Fontys University of Applied Sciences.
 
 ### Languages & Tools
 
-<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dottiedot&layout=compact&theme=tokyonight" />
+<img align="left" alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dottiedot&layout=compact&theme=dark" />
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat&logo=javascript&labelColor=444)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-blue?style=flat&logo=typescript&labelColor=444)
