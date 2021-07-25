@@ -1,6 +1,6 @@
 # Hey, I'm Taran 👋
 <a href="https://twitter.com/DottieDot13">
-  <img align="left" alt="Twitter" width="36px" src="./icons/twitter.svg" />
+  <img align="left" alt="Twitter" width="26px" src="./icons/twitter.svg" />
 </a>
 <a href="https://reddit.com/u/ThatDottieDot">
   <img align="left" alt="Reddit" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/reddit.svg" />
