@@ -12,7 +12,7 @@
 <br />
 <br />
 
-I'm in my 4th semester at Fontys University of Applied Sciences.
+I'm in my 5th semester at Fontys University of Applied Sciences.
 
 
 ## Interests
