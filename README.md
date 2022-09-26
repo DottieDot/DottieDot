@@ -1,4 +1,4 @@
-# Hey, I'm Taran 👋
+# Hi, I'm Taran 👋
 <a href="https://twitter.com/DottieDot13">
   <img align="left" alt="Twitter" width="26px" src="./icons/twitter.svg" />
 </a>
@@ -12,7 +12,7 @@
 <br />
 <br />
 
-I'm in my 5th semester at Fontys University of Applied Sciences.
+I'm in my 6th semester at Fontys University of Applied Sciences.
 
 
 ## Interests
@@ -39,12 +39,10 @@ I'm in my 5th semester at Fontys University of Applied Sciences.
 ![Laravel](https://img.shields.io/badge/-Laravel-red?style=flat&logo=laravel&labelColor=444)
 ![SQL](https://img.shields.io/badge/-SQL-9cf?style=flat&logo=mysql&labelColor=444)
 ![git](https://img.shields.io/badge/-Git-orange?style=flat&logo=github&labelColor=444)
-
+![Rust](https://img.shields.io/badge/-Rust-brown?style=flat&logo=rust&labelColor=444)
 
 *Learning/Wanting to learn*
 
-![Rust](https://img.shields.io/badge/-Rust-brown?style=flat&logo=rust&labelColor=444)
 ![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter&labelColor=444)
 ![Swift](https://img.shields.io/badge/-Swift-orange?style=flat&logo=swift&labelColor=444)
-![OpenGL](https://img.shields.io/badge/-OpenGL-blue?style=flat&logo=opengl&labelColor=444)
 
