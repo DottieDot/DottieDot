@@ -12,7 +12,7 @@
 <br />
 <br />
 
-I'm in my 6th semester at Fontys University of Applied Sciences.
+I'm in my 7th semester at Fontys University of Applied Sciences.
 
 
 ## Interests
@@ -43,6 +43,5 @@ I'm in my 6th semester at Fontys University of Applied Sciences.
 
 *Learning/Wanting to learn*
 
-![Flutter](https://img.shields.io/badge/-Flutter-blue?style=flat&logo=flutter&labelColor=444)
 ![Swift](https://img.shields.io/badge/-Swift-orange?style=flat&logo=swift&labelColor=444)
 
