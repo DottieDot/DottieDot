@@ -12,8 +12,6 @@
 <br />
 <br />
 
-I'm in my 7th semester at Fontys University of Applied Sciences.
-
 
 ## Interests
 - 🌐 Full stack development
